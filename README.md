@@ -21,6 +21,20 @@
 (None, None)
 ```
 
+#Тесты 
+
+Запустить UNIT-тестирование можно следующими способами:
+
+```bash
+# possibly requires call of python3 executive instead of just python
+$ python -m 7_mistery_fix.tests # from parent directory
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+```
+
 # Цели проекта
 
 Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
