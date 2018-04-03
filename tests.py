@@ -1,6 +1,6 @@
 import unittest
 
-from .quadratic_equation import get_roots
+from quadratic_equation import get_roots
 
 
 class QuadraticEquationTestCase(unittest.TestCase):

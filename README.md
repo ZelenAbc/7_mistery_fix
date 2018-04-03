@@ -27,7 +27,7 @@
 
 ```bash
 # possibly requires call of python3 executive instead of just python
-$ python -m 7_mistery_fix.tests # from parent directory
+$ python tests.py # from parent directory
 ....
 ----------------------------------------------------------------------
 Ran 4 tests in 0.000s
